@@ -1,0 +1,7 @@
+*.sav
+
+*password*
+
+*.pub
+.DS_Store
+passwords
